@@ -14,5 +14,7 @@ go to your .zshrc file and change ZSH_THEME to this new one
 $ cd ~/.zshrc
 ZSH_THEME=nuts
 ```
-
+<p>
+  <img src="linux-nuts.zsh-theme.png" />
+</p>
 
