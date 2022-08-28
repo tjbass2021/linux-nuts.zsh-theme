@@ -1,4 +1,6 @@
-# nuts.zsh-theme
+# linux-nuts.zsh-theme
+
+> It's a little forked modification for original "nuts"
 
 ```
 $ git clone https://github.com/rafaelsq/nuts.zsh-theme.git
@@ -13,6 +15,4 @@ $ cd ~/.zshrc
 ZSH_THEME=nuts
 ```
 
-<p>
-    <img src="https://raw.githubusercontent.com/rafaelsq/nuts.zsh-theme/master/nuts.zsh-theme.png">
-</p>
+

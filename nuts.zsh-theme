@@ -7,7 +7,7 @@ function git_prompt_info() {
   fi
 }
 
-PROMPT='%{$fg_bold[cyan]%}%c$(git_prompt_info)%(?:%{$fg_bold[white]%}:%{$fg_bold[red]%}) ▶%{$reset_color%} '
+PROMPT='%{$fg_bold[cyan]%}%c$(git_prompt_info)%(?:%{$fg_bold[white]%}:%{$fg_bold[red]%}) %{$reset_color%} '
 RPROMPT='%{$fg[red]%}%*%{$reset_color%}'
 
 ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[red]%}"
